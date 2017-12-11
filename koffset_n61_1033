@@ -1,5 +1,3 @@
-vtab 0x1030 not added
-
 OFFSET_ZONE_MAP                             0xfffffff007558478
 OFFSET_KERNEL_MAP                           0xfffffff0075b4050
 OFFSET_KERNEL_TASK                          0xfffffff0075b4048
@@ -11,5 +9,5 @@ OFFSET_COPYOUT                              0xfffffff00718d21c
 OFFSET_IPC_PORT_ALLOC_SPECIAL               0xfffffff0070a60b4
 OFFSET_IPC_KOBJECT_SET                      0xfffffff0070b938c
 OFFSET_IPC_PORT_MAKE_SEND                   0xfffffff0070a5bd8
-OFFSET_IOSURFACEROOTUSERCLIENT_VTAB         0xfffffff006135000
+OFFSET_IOSURFACEROOTUSERCLIENT_VTAB         0xfffffff006135000 + 0x1030
 OFFSET_ROP_ADD_X0_X0_0x10                   0xfffffff0064b2174
