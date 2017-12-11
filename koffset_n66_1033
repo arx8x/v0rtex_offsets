@@ -14,5 +14,5 @@ OFFSET_IPC_PORT_ALLOC_SPECIAL               0xfffffff007099e94
 OFFSET_IPC_KOBJECT_SET                      0xfffffff0070ad16c
 OFFSET_IPC_PORT_MAKE_SEND                   0xfffffff0070999b8
 OFFSET_IOSURFACEROOTUSERCLIENT_VTAB         0xfffffff006e7b9c8
-OFFSET_ROP_ADD_X0_X0_0x10                   0xfffffff006462178
-OFFSET_ROP_ADD_X0_X0_0x10                   0xfffffff0064ac398 
+OFFSET_ROP_ADD_X0_X0_0x10                   0xfffffff006462174
+OFFSET_ROP_ADD_X0_X0_0x10                   0xfffffff0064ac398
