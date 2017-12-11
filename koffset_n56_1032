@@ -11,5 +11,5 @@ OFFSET_COPYOUT                              0xfffffff00718d570
 OFFSET_IPC_PORT_ALLOC_SPECIAL               0xfffffff0070a60b4
 OFFSET_IPC_KOBJECT_SET                      0xfffffff0070b938c
 OFFSET_IPC_PORT_MAKE_SEND                   0xfffffff0070a5bd8
-OFFSET_IOSURFACEROOTUSERCLIENT_VTAB         0xfffffff006eee1b8
+OFFSET_IOSURFACEROOTUSERCLIENT_VTAB         0xfffffff006eed188
 OFFSET_ROP_ADD_X0_X0_0x10                   0xfffffff0064b2174
